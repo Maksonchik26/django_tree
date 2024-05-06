@@ -10,3 +10,5 @@ python manage.py createsuperuser
 
 Запуск приложения: 
 python manage.py runserver
+
+Пример URL: /api/pages/?url=/catalog/shoes/
