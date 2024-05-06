@@ -5,8 +5,8 @@ pip install -r requirements.txt
 Применить миграции: 
 python manage.py migrate
 
-Запуск приложения: 
-python manage.py runserver
-
 Создание администратора:
 python manage.py createsuperuser
+
+Запуск приложения: 
+python manage.py runserver
